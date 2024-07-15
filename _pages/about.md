@@ -43,6 +43,10 @@ In the 27th European Symposium on Programming (ESOP 2018), Thessaloniki, Greece,
 “Automatically Disproving Fair Termination of Higher-Order Functional Programs.”
 In the 21st ACM SIGPLAN International Conference on Functional Programming (ICFP 2016), Nara, Japan, 2016. [Paper](https://dl.acm.org/doi/10.1145/3022670.2951919)
 
+### Book
+
+* Akira Kawata, Yuki Koike, **Keiichi Watanabe**, Takaya Saeki, and Mizuki Arata: "Binary Hacks Rebooted", O'Reilly Japan, August 2024. [Amazon](https://www.amazon.co.jp/dp/4814400853)
+
 ## Software
 
 - [Crosvm] - Virtual machine monitor in Rust for ChromeOS
