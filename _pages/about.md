@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 My name is Keiichi Watanabe.
-I'm a senior software engineer at Google.
+I'm a senior software engineer at Google LLC in Texas, USA.
 I earned a Master's degree in Computer Science from the University of Tokyo in 2018.
 
 ## Education
@@ -18,12 +18,19 @@ I earned a Master's degree in Computer Science from the University of Tokyo in 2
 
 ## Work Experiences
 
-### Software Engineer, Google Japan
+### Senior Software Engineer, Google LLC (Texas, US)
 
-*April 2018 - Present*
+*August 2025 - Present*
 
 A senior software engineer on the ChromeOS platform team.
-I'm a tech lead for a team that develops virtualization technology to run Android apps on Chromebooks.
+Working on virtualization technology for ChromeOS and Android.
+
+### Software Engineer, Google Japan (Tokyo, Japan)
+
+*April 2018 - July 2025*
+
+A software engineer on the ChromeOS platform team.
+I worked on virtualization technology to run Android apps on Chromebooks.
 
 * Developing and maintaining [crosvm], a multi-platform virtual machine monitor written in Rust for ChromeOS.
 * Developing and optimizing file systems for Android VM.
