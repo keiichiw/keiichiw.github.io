@@ -10,6 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+# Ruby 2.6 では ffi 1.17 系が非対応のため、1.16 系に固定する
+gem "ffi", "< 1.17"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
