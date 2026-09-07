@@ -12,7 +12,7 @@ title                    : "Keiichi Watanabe"
 title_separator          : "-"
 name                     : &name "Keiichi Watanabe"
 description              : &description "Software Engineer"
-url                      : https://keiichiw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://keiichiw.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "keiichiw/keiichiw.github.io"
 
