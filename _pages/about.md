@@ -40,8 +40,9 @@ I worked on virtualization technology to run Android apps on Chromebooks.
 
 ## Publications
 
-### Peer-reviewed Conference Papers
+### Conference Papers and Presentations
 
+* Shoichi Inoue and **Keiichi Watanabe**: “Rational Area Profiles of Regular Polygons Cut by Two Congruent Diagonals.” In the Japan Conference on Discrete and Computational Geometry, Graphs, and Games (JCDCGGG 2026), Tokyo, Japan, 2026. [Extended abstract]({{ '/files/jcdcggg2026-abstract-polygon-cut.pdf' | relative_url }})
 * **Keiichi Watanabe**, Takeshi Tsukada, Hiroki Oshikawa and Naoki Kobayashi: “Reduction from Branching-Time Property Verification of Higher-Order Programs to HFL Validity Checking.” In the 2019 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation (PEPM 2019), Cascais, Portugal, 2019. [PDF](https://dl.acm.org/doi/10.1145/3294032.3294077)
 * Naoki Kobayashi, Takeshi Tsukada, **Keiichi Watanabe**:
 “Higher-Order Program Verification via HFL Model Checking.”
